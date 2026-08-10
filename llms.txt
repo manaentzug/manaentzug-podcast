@@ -24,4 +24,4 @@
 
 ## Extended Index
 - Eine vollständige Übersicht aller Episoden und detaillierten Show Notes für KI-Modelle befindet sich in der erweiterten Datei.
-- Full Directory: llms-full.txt
+- Full Directory: [llms-full.txt](llms-full.txt)
