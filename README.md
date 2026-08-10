@@ -17,4 +17,3 @@ Dieses Verzeichnis dient primär der Bereitstellung strukturierter Daten für Su
 - [TikTok](https://www.tiktok.com/@manaentzug)
 - [WhatsApp Kanal](https://www.whatsapp.com/channel/0029VaDPb8u7T8bfdBWi8l0V)
 - [Apple Podcasts](https://podcasts.apple.com/de/podcast/mana-entzug/id1651226719)
-- 
